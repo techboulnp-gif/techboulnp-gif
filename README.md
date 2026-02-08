@@ -48,7 +48,7 @@ My logistics experience has taught me the importance of **process optimization**
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn:** [Art Johnson](www.linkedin.com/in/art-johnson-103904391)
+- 💼 **LinkedIn:** www.linkedin.com/in/art-johnson-103904391
 - 📧 **Email:** artjohnson27@gmail.com
 - 🎥 **YouTube Demos:** [Watch My Project Walkthroughs](https://youtube.com/yourprofile)
 - 🐙 **GitHub:** [techboulnp-gif](https://github.com/techboulnp-gif)
