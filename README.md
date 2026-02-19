@@ -26,8 +26,9 @@ My logistics experience has taught me the importance of **process optimization**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+[![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 ---
 
@@ -37,6 +38,7 @@ My logistics experience has taught me the importance of **process optimization**
 |---|---|
 | 🔐 [Active Directory Home Lab](https://github.com/techboulnp-gif/Active-Directory-Home-Lab) | Enterprise User Management Simulation - Windows Server 2019 Domain Controller with 1,000+ mock users |
 | 🗺️ [Azure-Cloud-Governance-Lab](https://github.com/techboulnp-gif/Azure-Cloud-Governance-Lab) | To establish a secure administrative framework using Role-Based Access Control (RBAC), manage identities via Security Groups, and prepare the tenant for advanced security policies.
+| 🔗  [Azure-Hybrid-Identity-Lab](https://github.com/techboulnp-gif/Azure-Hybrid-Identity-Lab) | A hands on laboratory demonstrating the synchronization of an On-Premise Active Directory environment with Microsoft Entra ID (Azure AD) using Azure AD Connect.
 
 ---
 
