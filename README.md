@@ -36,7 +36,7 @@ My logistics experience has taught me the importance of **process optimization**
 | **Project** | **Description** |
 |---|---|
 | 🔐 [Active Directory Home Lab](https://github.com/techboulnp-gif/Active-Directory-Home-Lab) | Enterprise User Management Simulation - Windows Server 2019 Domain Controller with 1,000+ mock users |
-| 🗺️ [Azure Sentinel SIEM Lab](https://github.com/techboulnp-gif/Azure-Sentinel-SIEM-Lab) | Live Attack Mapping & Analysis - Cloud-based honeypot with real-time brute force attack tracking |
+| 🗺️ [Azure-Cloud-Governance-Lab](https://github.com/techboulnp-gif/Azure-Cloud-Governance-Lab) | To establish a secure administrative framework using Role-Based Access Control (RBAC), manage identities via Security Groups, and prepare the tenant for advanced security policies.
 
 ---
 
