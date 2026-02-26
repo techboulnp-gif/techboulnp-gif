@@ -38,7 +38,9 @@ My logistics experience has taught me the importance of **process optimization**
 |---|---|
 | 🔐 [Active Directory Home Lab](https://github.com/techboulnp-gif/Active-Directory-Home-Lab) | Enterprise User Management Simulation - Windows Server 2019 Domain Controller with 1,000+ mock users |
 | 🗺️ [Azure-Cloud-Governance-Lab](https://github.com/techboulnp-gif/Azure-Cloud-Governance-Lab) | To establish a secure administrative framework using Role-Based Access Control (RBAC), manage identities via Security Groups, and prepare the tenant for advanced security policies.
-| 🔗  [Azure-Hybrid-Identity-Lab](https://github.com/techboulnp-gif/Azure-Hybrid-Identity-Lab) | A hands on laboratory demonstrating the synchronization of an On-Premise Active Directory environment with Microsoft Entra ID (Azure AD) using Azure AD Connect.
+| 🔗 [Azure-Hybrid-Identity-Lab](https://github.com/techboulnp-gif/Azure-Hybrid-Identity-Lab) | A hands on laboratory demonstrating the synchronization of an On-Premise Active Directory environment with Microsoft Entra ID (Azure AD) using Azure AD Connect.
+| 🛡️ [Splunk-SOC-Lab](https://github.com/techboulnp-gif/Splunk-SOC-Lab) | A hands on cybersecurity lab simulating brute force attacks on Windows endpoints and monitoring detections using Splunk Enterprise.
+| 🎫 [osTicket-Lab](https://github.com/techboulnp-gif/osTicket-Lab) | Installing osTicket , creating a ticket, assigning a ticket, resolving, responding and closing out a ticket.
 
 ---
 
