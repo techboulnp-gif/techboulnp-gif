@@ -9,7 +9,7 @@
 
 ## 👋 Who Am I?
 
-I am a detail oriented professional transitioning from **Logistics & Transportation Management** to **Cybersecurity & IT**. With a background in supply chain optimization and team leadership, I'm now channeling that discipline and analytical mindset into building a career as a **Cybersecurity Analyst**.
+I am a detail oriented professional transitioning from **Logistics & Transportation Management** to **Cybersecurity & IT**. With a background in supply chain optimization and team leadership, I'm now channeling that discipline and analytical mindset into building a career as a **IT Professional**.
 
 Currently pursuing:
 - 🎓 **Google Cybersecurity Professional Certificate**
