@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Art Johnson
-## Aspiring Cybersecurity Analyst | IT Professional
+## Aspiring IT Professional
 
 </div>
 
